@@ -1,0 +1,14 @@
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\bin\Debug\DZ3 telephone.exe.config
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\bin\Debug\DZ3 telephone.exe
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\bin\Debug\DZ3 telephone.pdb
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3 telephone.csprojAssemblyReference.cache
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.AddContactForm.resources
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.PhoneForm.resources
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.Properties.Resources.resources
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3 telephone.csproj.GenerateResource.cache
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3 telephone.csproj.CoreCompileInputs.cache
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3 telephone.exe
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3 telephone.pdb
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.OpenEditForm.resources
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.FindContactForm.resources
+E:\VS Projects\Windows Forms\DZ3 telephone\DZ3 telephone\obj\Debug\DZ3_telephone.ViewForm.resources
